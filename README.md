@@ -8,7 +8,7 @@ With this project, the user can see all the books and 'Best Selling' books on th
 * Home
 * Detail
 
-##Structures Used:
+## Structures Used:
 * Retrofit
 * Glide
 * Room
